@@ -1,0 +1,6 @@
+Windows
+
+5 | Ctrl+N |	Open a new window
+5 | Ctrl+Shift+N |	Open a new window in incognito mode
+5 | Shift and click |	Open link in a new window
+5 | Alt+F4	| Close current window

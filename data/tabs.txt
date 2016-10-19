@@ -1,0 +1,11 @@
+Tabs
+
+5 | Ctrl+T | Open a new tab
+5 | Ctrl+Shift+T | Reopen the last tab you've closed.
+5 | Ctrl+1 to Ctrl+8 | Switch to the tab at the specified position number.
+5 | Ctrl+9 | Switch to the last tab
+5 | Ctrl+Tab or Ctrl+PgDown | Switch to the next tab
+5 | Ctrl+Shift+Tab or Ctrl+PgUp | Switch to the previous tab
+5 | Ctrl+W or Ctrl+F4 |	Close current tab or pop-up
+5 | Alt+Home |	Open your homepage
+5 | Ctrl+O, then select file |	Open a file from your computer in Google Chrome
