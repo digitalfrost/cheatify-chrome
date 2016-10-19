@@ -1,0 +1,7 @@
+Developer Tools
+
+5 | F12, Ctrl + Shift + I | Open / Close Developer Tools	
+5 | Ctrl + Shift + C	| Open / switch from inspect element mode and browser window	
+5 |Ctrl + Shift + J	|  Open Developer Tools and bring focus to the console	
+5 | 	Ctrl + ] | Next panel
+5 | Ctrl + [ | 	Previous panel
